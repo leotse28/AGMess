@@ -29,7 +29,7 @@ export NEZHA_SERVER=""          # 哪吒面板域名。v1 填写形式：nezha.x
 export NEZHA_PORT=""            # v1 哪吒不要填写这个。v0 哪吒 agent 端口，端口为 {443, 8443, 2096, 2087, 2083, 2053} 之一时开启 TLS
 export NEZHA_KEY=""             # v1 哪吒的 NZ_CLIENT_SECRET 或 v0 哪吒 agent 密钥
 
-# --- Argo 隧道配置 ---
+# --- Argo 隧道配置 ---8081
 export ARGO_DOMAIN="bloombergnf.x5411y.cloudns.biz"           # Argo 域名，留空即启用临时隧道
 export ARGO_AUTH="eyJhIjoiYWExZDM1MDYzNGQ1MDA2OGJkMGZkZDIxNjA3MGZhZTUiLCJ0IjoiZTcyNjljODctYWVkZC00OWY5LTliNDctZDIxNzFjOTQxOWUzIiwicyI6Ik5UWTJPR1l4TkdZdE9XSmpNaTAwWWpNMExUZzJZell0TmpKbE1ETXhNVFZsWlRGaCJ9"             # Argo Token 或 json，留空即启用临时隧道
 
