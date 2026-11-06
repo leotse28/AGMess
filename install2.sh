@@ -33,6 +33,9 @@ export NEZHA_KEY=""             # v1 哪吒的 NZ_CLIENT_SECRET 或 v0 哪吒 ag
 export ARGO_DOMAIN="bloombergnf.x5411y.cloudns.biz"           # Argo 域名，留空即启用临时隧道
 export ARGO_AUTH="eyJhIjoiYWExZDM1MDYzNGQ1MDA2OGJkMGZkZDIxNjA3MGZhZTUiLCJ0IjoiZTcyNjljODctYWVkZC00OWY5LTliNDctZDIxNzFjOTQxOWUzIiwicyI6Ik5UWTJPR1l4TkdZdE9XSmpNaTAwWWpNMExUZzJZell0TmpKbE1ETXhNVFZsWlRGaCJ9"             # Argo Token 或 json，留空即启用临时隧道
 
+
+
+eyJhIjoiYWExZDM1MDYzNGQ1MDA2OGJkMGZkZDIxNjA3MGZhZTUiLCJ0IjoiZmZmYjU1NjQtNDZkOC00Njc1LWJhNTctNTQ2ZDk1ZTYxNDZmIiwicyI6Ik1qSXlaRFl5TTJJdFpEWXdNeTAwTVRjMExXSTJNVFl0TWpSbE1qZzRNVFJoTVRReSJ9
 # --- 其他配置 ---
 export NAME="idx-bloomberg"               # 节点名称
 export CFIP="usa.visa.com" # 优选 IP 或优选域名
